@@ -1,0 +1,18 @@
+{
+  "name": "webpack-count-files-by-extensions-plugin",
+  "version": "1.0.0",
+  "description": "Webpack plugin that outputs the number of compiled files by extension",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ishpartko/webpack-count-files-by-extensions-plugin.git"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "extension",
+    "count"
+  ],
+  "author": "i@shpartko.ru",
+  "license": "MIT"
+}
